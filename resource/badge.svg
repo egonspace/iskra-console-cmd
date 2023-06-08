@@ -1,0 +1,16 @@
+<svg file="none" viewBox="0 0 100 100" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <script>
+  (function hideEmblem() {
+    var el = document.createElement('style');
+    document.head.appendChild(el);
+    var styleSheet = el.sheet;
+    styleSheet.insertRule('.certik-emblem { display: none; }', 0);
+  })();
+    </script>
+    <div class="certik-emblem" data-id="4a6ea5b2">
+      <a href="https://skynet.certik.com/projects/iskra?utm_source=SkyEmblem&utm_campaign=iskra&utm_medium=link">View project at certik.com</a>
+    </div>
+    <script async src="https://emblem.certik-assets.com/script?pid=iskra&vid=4a6ea5b2"></script>
+  </foreignObject>
+</svg>

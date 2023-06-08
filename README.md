@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-  <img src="resource/badge.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+![Image alt text](resource/badge.svg)
 ISKRA tokens(ERC20, ERC721, ERC1155), vesting contracts and commands
 ===
 *Before jump into further, [the happy case test shell](.multitoken.test.sh) is highly recommended to execute*
